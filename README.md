@@ -3,15 +3,15 @@ ohm is an easy-to-use application designed to simplify the process of converting
 
 
 # 🧐**Overview:**
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="img1.png" alt="Image 1" width="50%">
-  <img src="img2.png" alt="Image 2" width="50%">
-  <img src="img3.png" alt="Image 3" width="50%">
-  <img src="img4.png" alt="Image 4" width="50%">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+  <img src="img1.png" alt="Image 1">
+  <img src="img2.png" alt="Image 2">
+  <img src="img3.png" alt="Image 3">
+  <img src="img4.png" alt="Image 4">
 </div>
 
 <div style="text-align: center;  margin: 30px;">
-  <img src="descrip video.gif" alt="alt text" width="80%">
+  <img src="descrip video.gif" alt="alt text">
 </div>
 
 
