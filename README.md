@@ -17,7 +17,7 @@ ohm is an easy-to-use application designed to simplify the process of converting
 | Windows          |   1.0   | [**Download**](https://drive.google.com/file/d/1YtpfoyXwBClMJkL5PlNInB10Ys2siwKS/view?usp=sharing) |
 
 # ⚖️**License**
-This project is licensed under the MIT License, which allows unrestricted sharing and modification of the project. See the [**LICENSE**](LICENSE) file for more details.
+This project is licensed under the MIT License, which allows unrestricted sharing and modification of the project. See the [**LICENSE**](https://github.com/IronWolf437/ohm-app?tab=MIT-1-ov-file) file for more details.
 
 ---
 ### ⛔**Note:**
